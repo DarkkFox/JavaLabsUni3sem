@@ -5,10 +5,6 @@ import lombok.Data;
 
 import java.net.URL;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
 @AllArgsConstructor
 @Data
 public class URLEntry {
