@@ -11,10 +11,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
+
 public class WebCrawler {
     private final Set<URL> visitedHosts = new HashSet<>();
     private final Queue<URLEntry> queue = new LinkedList<URLEntry>();
