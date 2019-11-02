@@ -15,10 +15,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 23.10.2019
- */
 public class FractalExplorer extends JFrame {
     private static final int width = 500;
     private static final int height = 500;
