@@ -12,10 +12,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.LinkedBlockingDeque;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
+
 public class URLPool {
     private final Queue<URLEntry> queue = new LinkedList<>();
     private Set<URL> visitedUrls = Collections.newSetFromMap(new ConcurrentHashMap<>());
