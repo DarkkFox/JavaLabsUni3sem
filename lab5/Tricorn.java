@@ -2,10 +2,6 @@ package ru.izebit.fifth;
 
 import java.awt.geom.Rectangle2D;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 23.10.2019
- */
 public class Tricorn extends FractalGenerator {
     @Override
     public Rectangle2D.Double getInitialRange(final Rectangle2D.Double range) {
