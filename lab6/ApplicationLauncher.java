@@ -1,9 +1,4 @@
-package ru.izebit.sixth;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
 public class ApplicationLauncher {
     public static void main(String[] args) {
 //        if (args.length != 2)
