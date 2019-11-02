@@ -13,10 +13,7 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
+
 public class CrawlerTask implements Runnable {
     private final URLPool pool;
     private final int depth;
