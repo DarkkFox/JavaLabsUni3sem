@@ -2,10 +2,7 @@ package ru.izebit.seventh;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 24.10.2019
- */
+
 public class ApplicationLauncher {
     public static void main(String[] args) throws Exception {
 //        if (args.length != 2)
