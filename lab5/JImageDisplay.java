@@ -6,10 +6,7 @@ import java.awt.image.BufferedImage;
 
 import static java.awt.image.BufferedImage.TYPE_INT_RGB;
 
-/**
- * @author <a href="mailto:izebit@gmail.com">Artem Konovalov</a> <br/>
- * Date: 23.10.2019
- */
+
 public class JImageDisplay extends JComponent {
     private final BufferedImage image;
 
